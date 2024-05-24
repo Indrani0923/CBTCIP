@@ -109,4 +109,3 @@ void displayStudentSummary(Student students[], int numStudents, char subjects[][
         printf("\n");
     }
 }
-
