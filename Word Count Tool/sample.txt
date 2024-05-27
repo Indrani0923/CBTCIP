@@ -1,0 +1,4 @@
+Hello, I am Indrani Paul.
+I am a college student.
+Currently, I am doing internship in cipherByte Technologies.
+This is my second task in internship and I have to create a word count tool in this task.
